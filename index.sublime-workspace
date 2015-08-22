@@ -1,0 +1,417 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"$scop",
+				"$scope	AngularJS"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"bas",
+				"backBase_length"
+			],
+			[
+				"ba",
+				"backBase_length"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"sub",
+				"submittedData"
+			],
+			[
+				"select",
+				"select	Tag"
+			],
+			[
+				"slec",
+				"selected	Attr"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"border",
+				"border-image"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"She",
+				"SheetDisplayController"
+			],
+			[
+				"ban",
+				"background-color"
+			],
+			[
+				"ng",
+				"ng-click	AngularJS"
+			],
+			[
+				"ng-",
+				"ng-disabled	AngularJS"
+			],
+			[
+				"ngin",
+				"ng-init	AngularJS"
+			],
+			[
+				"for",
+				"forEach	AngularJS"
+			],
+			[
+				"sele",
+				"select	Tag"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"chap",
+				"chapter"
+			],
+			[
+				"loa",
+				"localStorage"
+			],
+			[
+				"note",
+				"notes"
+			],
+			[
+				"no",
+				"notes"
+			],
+			[
+				"chapter",
+				"chapter"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"AngularJs",
+				"AngularJS"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"$loa",
+				"$location	AngularJS"
+			],
+			[
+				"confi",
+				"confirmDelete"
+			],
+			[
+				"$rou",
+				"$routeParams	AngularJS"
+			],
+			[
+				"$loca",
+				"$location	AngularJS"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"cha",
+				"chapterId"
+			],
+			[
+				"$route",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"ng-v",
+				"ng-view	AngularJS"
+			],
+			[
+				"re",
+				"rel	Attr"
+			],
+			[
+				"cou",
+				"courseName"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"ima",
+				"border-image"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"ce",
+				"cellspacing	Attr"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bord",
+				"border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Temp/React/comment.json",
+		"/C/Temp/React/index.html",
+		"/C/Temp/React/script.js",
+		"/C/Temp/Angular JS/Product/sheet-list.html",
+		"/C/Temp/Angular JS/GuidBook/model/NoteModel.js",
+		"/C/Temp/Angular JS/GuidBook/model/ChapterModel.js",
+		"/C/Temp/Angular JS/GuidBook/controller/ChatpterController.js",
+		"/C/Temp/Angular JS/GuidBook/controller/NoteController.js",
+		"/C/Temp/Angular JS/GuidBook/Guidbook.html",
+		"/C/Temp/Angular JS/GuidBook/Guidbook.js",
+		"/C/Temp/Angular JS/GuidBook/view/chapters.html",
+		"/C/Temp/Angular JS/GuidBook/view/addNote.html",
+		"/C/Temp/Angular JS/GuidBook/view/style.css",
+		"/C/Temp/EJavaGuru.java",
+		"/C/Temp/Angular JS/angular/app/ng-app1.html",
+		"/C/Users/AJ035175/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+		"/C/Users/AJ035175/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-completions.sublime-settings",
+		"/C/Users/AJ035175/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-js-completions.sublime-settings",
+		"/C/Users/AJ035175/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-completions.sublime-settings",
+		"/C/Users/AJ035175/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-sublime-package.sublime-settings",
+		"/C/Users/AJ035175/Desktop/a.js",
+		"/C/Users/AJ035175/workspace/mpage-modal-dialog/src/main/resources/util/js/modal-dialog.js",
+		"/C/Users/AJ035175/Desktop/ex.js",
+		"/C/Program Files/Apache Software Foundation/Tomcat 7.0/webapps/discern/static_content/js/master-components.js",
+		"/C/Users/AJ035175/Desktop/a.prg",
+		"/C/Users/AJ035175/AppData/Roaming/Sublime Text 3/Packages/CCL/Comments.tmPreferences",
+		"/C/Users/AJ035175/AppData/Roaming/Sublime Text 3/Packages/CCL/Cnvtdatetime Function.sublime-snippet",
+		"/C/Users/AJ035175/AppData/Roaming/Sublime Text 3/Packages/CCL/Alterlist.sublime-snippet",
+		"/C/Users/AJ035175/AppData/Roaming/Sublime Text 3/Packages/TableView/TableView.py",
+		"/C/Users/AJ035175/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/AJ035175/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/C/Users/AJ035175/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/AJ035175/Web_Dev/Afternoon/Bruce_Resume.html",
+		"/C/Users/AJ035175/Web_Dev/Afternoon/main.css",
+		"/C/Users/AJ035175/Downloads/html-exercise-partial.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"140px",
+			"FFD",
+			"style",
+			"css",
+			"<script type=\"text/javascript\" src=\"lib/angular.min.js\"></script>",
+			"setfooter",
+			"plain"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

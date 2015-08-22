@@ -1,0 +1,39 @@
+body,div,header,footer,section,article{
+	margin: 0 auto;
+}
+
+header{
+	top: 0;
+	position: fixed;
+	font-size: 36px;
+	padding: 30px 400px;
+	border-bottom: 3px solid #0AE;
+	margin-bottom: 10px;
+	color: skyblue;
+	background-color: white;
+	z-index: 999;
+	width: 100%;
+}
+
+.container .own-blockquote{
+	background-color: #EEEEEE;
+	border-left: 5px solid #AAF;
+	border-radius: 2px;  
+}
+
+.ng-invalid.ng-dirty {
+	border-color: #FA787E;
+}
+
+.ng-valid.ng-dirty {
+	border-color: #78FA89;
+}
+.content{
+	margin-top: 140px;
+}
+.new-record{
+	border-color: lightgreen;
+}
+.tab-header{
+	border-bottom: 1px solid skyblue;
+}
